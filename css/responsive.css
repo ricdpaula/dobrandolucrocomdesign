@@ -1,0 +1,255 @@
+@media only screen and (max-width: 600px) {
+
+ .videoMain iframe{
+
+ 	width: 90%;
+ 	
+ }
+
+ .timerPromocao{
+
+ 	padding-top: 30px;
+ }
+
+ @-webkit-keyframes moveContent{
+
+	0%{bottom: 0px;}
+	100%{bottom: 50px;}
+}
+
+.packs{
+
+	flex-direction: column;
+}
+
+.packs img{
+
+	padding-right: 0px;
+	height: 220px;
+}
+
+.textPack h1{
+
+	text-align: center;
+}
+
+.textPack h4{
+
+	text-align: center;
+}
+
+.textPack{
+
+	flex-direction: column;
+	padding-right: 0%;
+	padding-left: 0%;
+
+}
+
+
+.Content-garantia{
+
+	flex-direction: column;
+}
+
+ .Content-garantia .textGarantia h3{
+
+ 	text-align: center;
+ 	font-size: 12pt;
+}
+
+ .Content-garantia .textGarantia h2{
+
+ 	text-align: center;
+}
+
+.textGarantia{
+
+	width: 90%;
+	margin-left: 0px;
+	margin-bottom: 25px;
+
+}
+
+.numbersVisitors{
+
+	flex-direction: column;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	
+}
+
+.modCurso{
+
+	padding-bottom: 22px;
+	padding-top: 22px;
+	background-size: 3000px;
+}
+
+.apresentation{
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 25px;
+}
+
+.apresentation .perfil p{
+
+	margin-top: 12px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 12pt;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#textMain{
+
+	margin-top: 50px;
+}
+
+.apresentation .perfil{
+
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 60%;
+}
+
+.blockPlan{
+
+	width: 100%;
+	border-radius: 0px;
+}
+
+.blockPlan li{
+
+	font-size: 10pt;
+}
+
+
+.contentDep-in{
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.contentDep-in h2{
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22pt;
+	font-weight: 300;
+	font-style: italic;
+	margin-bottom: 15px;
+
+}
+
+.menuNav ul i{
+
+	display: inline-flex;
+}
+
+.menuNav ul li{
+
+	display: none;
+}
+
+#sub-textMain{
+
+	width: 90%;
+}
+
+.textVisitors h1{
+
+	width: 80%;
+}
+
+#titleDep{
+
+	margin-top: 25px;
+}
+
+.newletter{
+
+	margin-bottom: 25px;
+}
+
+.contentDep-in i{
+
+	display: none;
+}
+
+.contentDep i{
+
+	display: none;
+}
+
+.blockDep{
+
+	width: 80%;
+	height: auto;
+	border-radius: 5px;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+}
+
+.contentDep{
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.contentDep h2{
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22pt;
+	font-weight: 300;
+	font-style: italic;
+	margin-bottom: 15px;
+
+}
+
+.cols h2{
+
+	font-size: 12pt;
+
+}
+
+.cols{
+
+		margin-left: 0px;
+}
+
+.cols h5{
+
+	font-size: 35pt;
+
+	
+}
+
+.Content-garantia img{
+
+	height: 150px;
+
+}
+
+.Content-garantia img{
+
+	padding-bottom: 20px;
+}
+
+}
